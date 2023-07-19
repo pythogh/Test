@@ -1,1 +1,3 @@
 select * from ITMMASTER where ITMREF = '1123'
+left joinr
+with ITMFACILT
