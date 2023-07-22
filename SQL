@@ -1,3 +1,5 @@
 select * from ITMMASTER where ITMREF = '1123'
-left joinr
+left join
 with ITMFACILT
+with ZPRICE
+with ZCDG024
