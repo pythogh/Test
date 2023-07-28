@@ -1,1 +1,2 @@
 select * from SAPDWH
+// ad p32, p99, p78, p90
