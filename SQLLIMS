@@ -2,3 +2,6 @@ select * from product
 // add norme
 // add bom
 // add compa
+select * from norme
+// add all table
+select * from spec
