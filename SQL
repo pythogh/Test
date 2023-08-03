@@ -6,3 +6,5 @@ with ZCDG024
 with ZBOM$
 //
 add API from ELN
+//
+add API from NJI
