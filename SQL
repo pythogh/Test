@@ -1,9 +1,9 @@
 select * from ITMMASTER where ITMREF = '1123'
 left join
-with ITMFACILT
-with ZPRICE
-with ZCDG024
-with ZBOM$
+//with ITMFACILT
+//with ZPRICE
+//with ZCDG024
+//with ZBOM$
 //
 add API from ELN
 //
