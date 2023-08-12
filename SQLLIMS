@@ -3,7 +3,5 @@ select * from product
 // add bom
 // add compa
 select * from norme
-// add all table
 select * from spec
-// add dabl
 select * from LOPP
