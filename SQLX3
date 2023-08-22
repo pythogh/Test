@@ -8,5 +8,5 @@ select * from ZCDG028
 // list of all tables
 // list of views
 // list of BOM
-// list of tiers
+
 select * from zSSSOD0
