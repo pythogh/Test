@@ -4,4 +4,4 @@ select * from product
 // add compa
 select * from norme
 select * from spec
-select * from LOPP
+select * from LOPPOPOP
