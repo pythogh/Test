@@ -3,5 +3,3 @@ select * from SAPDWH
 // ask kpmg
 // ask gpi
 // ask nhh
-
-select  * from P23
