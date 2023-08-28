@@ -4,4 +4,4 @@ select * from ELN
 //use POI
 //use ETL
 
-to dataxarehouse, to eln
+to dataxarehouse
