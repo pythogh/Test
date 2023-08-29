@@ -7,4 +7,3 @@ left join
 //
 add API from ELN
 //
-add API from NJI
