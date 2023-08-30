@@ -9,4 +9,4 @@ select * from ZCDG028
 // list of views
 // list of BOM
 
-select * from zSSSOD0
+select * from POMM
