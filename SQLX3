@@ -3,7 +3,7 @@ select * from ZCDG023
 select * from ZCDG025
 select * from ZCDG027
 select * from ZCDG026
-select * from ZCDG028
+select * from ZCDG020
 
 // list of all tables
 // list of views
