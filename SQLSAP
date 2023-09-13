@@ -1,5 +1,3 @@
 select * from SAPDWH
-// ad p32, p99, p78, p90
+// ad p32, p99, p78, p95
 // ask kpmg
-// ask gpi
-// ask nhh
