@@ -2,5 +2,3 @@ select * from CARL1
 select * from CARL2
 select * from CARL3
 select * from CARL4
-select * from CARL0
-// add XX
