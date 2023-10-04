@@ -1,5 +1,5 @@
 select * from ELN
 //data from ELN
 //use API
-//use LNN
+//use LOP
 to dataxarehouse
