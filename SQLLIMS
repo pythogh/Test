@@ -3,5 +3,3 @@ select * from product
 // add bom
 // add compa
 select * from norme
-select * from splo
-select * from LO
