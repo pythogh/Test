@@ -1,5 +1,4 @@
 select * from product 
 // add norme
 // add bom
-// add compa
 select * from norme
