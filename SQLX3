@@ -5,6 +5,6 @@ select * from ZCDG027
 
 // list of all tables
 // list of views
-// list of BOM
+// list of BOMK
 
 select * from POMM
